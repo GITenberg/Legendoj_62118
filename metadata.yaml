@@ -1,5 +1,5 @@
 _repo: Legendoj_62118
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Kuhl, Bronisław
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51778'
     url: http://www.gutenberg.org/2009/agents/51778
     wikipedia: https://eo.wikipedia.org/wiki/Bronis%C5%82aw_Kuhl
+covers:
+- cover_type: archival
+  image_path: 62118-h/images/cover.jpg
 creator:
   author:
     agent_name: Niemojewski, Andrzej
@@ -20,6 +23,8 @@ creator:
     - https://pl.wikipedia.org/wiki/Andrzej_Niemojewski
     - https://en.wikipedia.org/wiki/Andrzej_Niemojewski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62118#Legendoj
 gutenberg_issued: '2020-05-13'
 gutenberg_type: Text
 identifiers:
