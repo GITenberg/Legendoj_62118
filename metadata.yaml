@@ -1,0 +1,38 @@
+_repo: Legendoj_62118
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kuhl, Bronisław
+    alias: Kuhl, Bronislaw
+    birthdate: 1886
+    deathdate: 1955
+    gutenberg_agent_id: '51778'
+    url: http://www.gutenberg.org/2009/agents/51778
+    wikipedia: https://eo.wikipedia.org/wiki/Bronis%C5%82aw_Kuhl
+creator:
+  author:
+    agent_name: Niemojewski, Andrzej
+    birthdate: 1864
+    deathdate: 1921
+    gutenberg_agent_id: '51777'
+    url: http://www.gutenberg.org/2009/agents/51777
+    wikipedia:
+    - https://pl.wikipedia.org/wiki/Andrzej_Niemojewski
+    - https://en.wikipedia.org/wiki/Andrzej_Niemojewski
+description: ''
+gutenberg_issued: '2020-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62118'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Polish -- Translations into Esperanto'
+- !lcc 'PG'
+- !lcsh 'Polish fiction -- Translations into Esperanto'
+- GITenberg
+tableOfContents: Antaŭparolo -- Tentistoj -- Majlaĥ -- Admono -- Du disciploj.
+title: Legendoj
+url: http://www.gutenberg.org/ebooks/62118
